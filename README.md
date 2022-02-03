@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![counter](https://github.com/rajagondap.m.pipedream.net)
+[![GitHub Views](https://komarev.com/ghpvc/?username=rajagondap&color=FAC151)][1]
+
