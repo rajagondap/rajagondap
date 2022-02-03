@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![GitHub Views(https://komarev.com/ghpvc/?username=rajagondap&color=FAC151)]
-
+![GitHub Views](https://komarev.com/ghpvc/?username=<username>)
