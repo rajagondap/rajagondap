@@ -1,25 +1,64 @@
-- 👋 Hi, I’m @rajagondap
-- Extensively Working on Cloud (AWS and Azure), K8s, Docker, Python, Django, DataScience & Machine Learning - (NumPy, Panda, ScikitLearn, Tesor Flow, DL, NLP, Generative AI),  Selenium/Appium, BDD, Robot Framework, tkinter for UI.
-- Extensive experience in leading (9+ years) diversified teams (Remote and local) from both technical as well as project management perspectives.
-- Extensive designing and developing the Web Applications, Custom Automation tools by integrating them with Test rail, Jira, and Automation framework backend which includes scheduling, execution, reporting, and benchmarking.
-- Extensive experience as an Python Dev and SDET in developing custom Python based Web apps, backend libraries and Utilities, UI and API-based automation for Web, API, and Mobile automation.
-- Having good hands-on experience in SDLC/STLC, and Agile/Scrum methodology and SAFe 6.0 Agilist.
-- Having hands on knowledge of k8s, Docker, Containers, and Multi-Cloud (AWS, Azur, Elastic stack)
-- Developed and deplyed cutom linux OS libraries in Python, Integrated ML models with FastAPI
-- Developed a licensed Automation tool called GATS, and a keyword-driven automation framework from scratch.
-- Hands on exposure to CI/CD environments which involved Jenkins, GIT/GitHub/GitLab, AWS/S3 storage, allure Reporting tool, Jira and TestRail integrations
-- Have experience in task estimation and project management using JIRA, Test Link/TestRail, and HP ALM.
-- Working in various personal pet projects on Open CV, Deep learning, NLP, Tensor Flow, Seaborn, NumPy, and Pandas.
-- Good in Mathematics, Analytical, Problem-solving, and debugging.
-- Willing to take up challenges. Ability to ramp up to new technology areas/ domains.
+# 👋 Hi, I'm @rajagondap
 
-- 💞️ I’m looking to collaborate on Data Science and ML projects. Also if any Web App Development related projects too.
-- 📫 How to reach me - my email is rajap786@gmail.com
+## 🤖 AI Lead Engineer| LEAD SDET | Python Backend Architect | LLM & Agentic AI Specialist
 
-<!---
-rajagondap/rajagondap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**13+ years** of engineering experience, with a sharp focus on **Generative AI, Agentic Systems, and Python Backend development**. I design and build production-grade AI systems — from LLM-powered pipelines to autonomous multi-agent workflows.
 
+---
+
+## 🧠 What I Build
+
+- **Agentic AI Systems** — Multi-agent orchestration using **LangGraph**, **LangChain**, and custom agent frameworks with tool use, memory, and reflection loops
+- **LLM Pipelines** — RAG architectures, prompt engineering, fine-tuning workflows, and LLM integrations with **OpenAI**, **Llama**, **Claude**, and **Mistral**
+- **Vector Search & Retrieval** — Semantic search using **FAISS**, **ChromaDB**, **Pinecone**, and **Weaviate** with embedding strategies (dense, sparse, hybrid)
+- **Python Backend APIs** — High-performance async REST APIs with **FastAPI**, async programming patterns, and clean architecture
+- **Cloud AI Deployments** — Deploying AI workloads on **AWS** and **Azure** with Docker, Kubernetes, and CI/CD pipelines
+
+---
+
+## 🛠️ Core Stack
+
+| Domain | Technologies |
+|--------|-------------|
+| **AI / LLM** | LangChain, LangGraph, LlamaIndex, OpenAI, Llama, Mistral, Claude |
+| **Vector DB** | ChromaDB, FAISS, Pinecone, Weaviate |
+| **ML / DL** | TensorFlow, Scikit-learn, NumPy, Pandas, HuggingFace |
+| **Backend** | FastAPI, Python (Async), Django, REST, WebSockets |
+| **Cloud** | AWS, Azure, Docker, Kubernetes (K8s) |
+| **MLOps / DevOps** | Jenkins, GitHub Actions, MLflow, Allure, Jira |
+
+---
+
+## 🚀 Highlights
+
+- 🔗 Built **end-to-end Agentic AI pipelines** with LangGraph — including multi-step reasoning, tool-calling agents, and human-in-the-loop workflows
+- 🗂️ Designed **production RAG systems** with hybrid retrieval, re-ranking, and context compression for enterprise document Q&A
+- ⚡ Integrated **ML models with FastAPI** and deployed on cloud-native infrastructure (AWS/Azure + K8s)
+- 🛠️ Created **GATS** — a licensed custom automation tool — and a full keyword-driven test automation framework from scratch
+- 🐧 Authored custom **Linux OS libraries in Python** and built ML-backed automation utilities
+- 👥 Led **diversified engineering teams (9+ years)** across remote and on-site setups, blending technical depth with project delivery
+
+---
+
+## 📚 Currently Exploring
+
+- 🧩 Advanced **multi-agent architectures** with LangGraph (supervisor, swarm, hierarchical patterns)
+- 🔍 **Graph RAG** and knowledge graph-augmented retrieval
+- ☁️ **Azure AI Engineer Associate** & **AWS AI Practitioner** certifications
+- 🏗️ Evolving toward a **Solution Architect** role in AI-native application design
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on:
+- **GenAI / Agentic AI** projects
+- **LLM application development** (RAG, chatbots, AI agents)
+- **Python backend systems** with FastAPI
+- **AI + Cloud architecture** consulting
+
+📫 Reach me at: [rajap786@gmail.com](mailto:rajap786@gmail.com)
+
+---
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=rajagondap)
