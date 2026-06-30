@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @rajagondap
 
-## 🤖 AI Lead Engineer| LEAD SDET | Python Backend Architect | LLM & Agentic AI Specialist
+## 🤖 AI Architect |Python Specialist | LEAD Dev/SDET | Python Backend Architect | LLM & Agentic AI Specialist | Multi Agent Platform development | AI Evaluation Framework
 
 **13+ years** of engineering experience, with a sharp focus on **Generative AI, Agentic Systems, and Python Backend development**. I design and build production-grade AI systems — from LLM-powered pipelines to autonomous multi-agent workflows.
 
